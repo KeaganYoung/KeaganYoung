@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Keagan!
 ### A passionate Student focusing on improving my skills
 
-(images/github_Banner.jpeg)
+(https://github.com/KeaganYoung/KeaganYoung/blob/main/images/github_Banner.jpeg?raw=true)
 
 [![Website](https://img.shields.io/website?label=Keaganyoung.com&style=for-the-badge&url=https%3A%2F%2Fkeaganyoung.com)](https://keaganyoung.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KeaganYoung554?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKeaganYoung545&screen_name=Keaganyoung554)
